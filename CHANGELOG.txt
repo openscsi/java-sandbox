@@ -1,0 +1,26 @@
+v2.2.1, January 12, 2015
+Updated some comments in the sublime theme.
+
+v2.2, January 11, 2015
+Save/load added. Can save/load .sndbx files.
+Default location is "My Documents\My Sandbox Files" (directory is created automatically).
+Disclaimer: Not tested on UN*X ;)
+
+V2.1, January 10, 2015
+Supports two syntax highlighting themes (Default and Sublime). Use Toggle Theme to change.
+README and CHANGELOG included.
+Some locations of files changed to better reflect those directories purposes.
+
+V2.0, January 10, 2015
+Supports syntax highlighting (see https://github.com/bobbylight/RSyntaxTextArea).
+Licensed under the New BSD 3.0.
+
+V1.2, January 9, 2015
+Now runs in full screen mode (not resizeable).
+Terminal is not overwritten with each new execution (use Clear Terminal to clear).
+
+V1.1, January 9, 2015
+No longer relies on System PATH to find JDK.
+
+V1.0, January 9, 2015
+Initial release.
