@@ -1,6 +1,6 @@
 # java-sandbox
 
-The Eclipse project for SCSI's Java Sandbox tool. Perfect for beginners who want to learn Java code without complicated Object Orientation or IDEs.
+The Eclipse project for SCSI's Java Sandbox tool. Perfect for beginners who want to learn Java code without complicated Object Orientation or IDEs. Download the latest version [here](https://github.com/bbatliner/java-sandbox/raw/master/Sandbox_v2.2.1.zip).
 
 ## Developing
 
